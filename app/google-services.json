@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681327237608",
+    "project_id": "drakal",
+    "storage_bucket": "drakal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681327237608:android:38ddb2d4fc88ace7a5ec5d",
+        "android_client_info": {
+          "package_name": "com.example.drakal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681327237608-apco38oc3atrttbeggabms8ied4mc8n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDGbWHOYb6s-k7ZqN7KdBNfOHo2we9oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681327237608-apco38oc3atrttbeggabms8ied4mc8n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
